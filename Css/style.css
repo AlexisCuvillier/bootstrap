@@ -1,0 +1,17 @@
+.container,.container-fluid{
+    margin-bottom: 5em;
+}
+
+h,h2,h3{
+    margin: 2em;
+}
+
+h1,h2{
+    text-align:center;
+}
+
+h3 {font-size:1.5em;}
+
+.card{
+    width: 400px;
+}
